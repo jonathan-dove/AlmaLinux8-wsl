@@ -1,4 +1,8 @@
 # AlmaLinux8-wsl
+*** DEPRECIATED ***
+
+This is an old project that has been superseded by https://github.com/AlmaLinux/wsl-images
+
 AlmaLinux8 on WSL (Windows 10 FCU or later)
 Based on [CentOS-WSL](https://github.com/mishamosher/CentOS-WSL) image [CentOS 8](https://github.com/mishamosher/CentOS-WSL/releases/tag/8.3-2011) transformed into a AlmaLinux image using the [AlmaLinux migration tool](https://github.com/AlmaLinux/almalinux-deploy/blob/master/almalinux-deploy.sh)
 
